@@ -1,0 +1,17 @@
+PRACTICING BASIC PROGRAM
+Hello World
+What is your name: Hello git status
+Hello git status
+DONE PRACTICING BASIC PROGRAM
+
+PRACTICING VARIABLES
+Variable i has the value 20
+Variable f has the value 1.14159 and its type is <class 'float'>
+Variable b has the value True
+ c[0] has the value 5 and is of type: <class 'tuple'>
+ names[0] has the value 10 and is of type: <class 'list'>
+{1, 4, 6}
+DONE PRACTICING VARIABLES
+
+PRACTICING CONDITIONALS
+Enter a number: 
