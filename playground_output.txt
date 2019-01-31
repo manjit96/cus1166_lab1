@@ -1,7 +1,8 @@
 PRACTICING BASIC PROGRAM
 Hello World
-What is your name: Hello git status
-Hello git status
+What is your name: Merry
+Hello Merry
+Hello Merry
 DONE PRACTICING BASIC PROGRAM
 
 PRACTICING VARIABLES
@@ -14,4 +15,28 @@ Variable b has the value True
 DONE PRACTICING VARIABLES
 
 PRACTICING CONDITIONALS
-Enter a number: 
+Enter a number: 12
+The value entered is positive, meaning greater than 0
+Done Practicing Conditionals
+
+Practicing Loops
+0
+1
+2
+3
+4
+0 - 2
+1 - 3
+2 - 4
+3 - 5
+4 - 6
+5 - 7
+6 - 8
+7 - 9
+Done Practicing Loops
+
+Practicing Functions
+Done Practicing Functions
+
+Practicing Classes
+Done Practicing Classes
