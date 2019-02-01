@@ -5,38 +5,79 @@ Hello Merry
 Hello Merry
 DONE PRACTICING BASIC PROGRAM
 
+
 PRACTICING VARIABLES
 Variable i has the value 20
 Variable f has the value 1.14159 and its type is <class 'float'>
 Variable b has the value True
- c[0] has the value 5 and is of type: <class 'tuple'>
- names[0] has the value 10 and is of type: <class 'list'>
+c[0] has the value 5 and is of type: <class 'tuple'>
+names[0] has the value 10 and is of type: <class 'list'>
 {1, 4, 6}
 DONE PRACTICING VARIABLES
+
 
 PRACTICING CONDITIONALS
 Enter a number: 12
 The value entered is positive, meaning greater than 0
-Done Practicing Conditionals
+DONE PRACTICING CONDITIONALS
 
-Practicing Loops
-0
-1
-2
-3
-4
-0 - 2
-1 - 3
-2 - 4
-3 - 5
-4 - 6
-5 - 7
-6 - 8
-7 - 9
-Done Practicing Loops
 
-Practicing Functions
-Done Practicing Functions
+PRACTICING LOOPS
+Hunger Games
+Harry Potter
+Twilight
+DONE PRACTICING LOOPS
 
-Practicing Classes
-Done Practicing Classes
+
+PRACTICING FUNCTIONS
+Enter a value: 1
+The number is odd
+None
+DONE PRACTICING FUNCTIONS
+
+
+PRACTICING CLASSES
+My name is Merry and I am 22 years old.
+DONE PRACTICING CLASSES
+Manjits-MBP:cus1166_lab1 merry$ python3 playground.py
+PRACTICING BASIC PROGRAM
+Hello World
+What is your name: 12
+Hello 12
+Hello 12
+DONE PRACTICING BASIC PROGRAM
+
+
+PRACTICING VARIABLES
+Variable i has the value 20
+Variable f has the value 1.14159 and its type is <class 'float'>
+Variable b has the value True
+c[0] has the value 5 and is of type: <class 'tuple'>
+names[0] has the value 10 and is of type: <class 'list'>
+{1, 4, 6}
+DONE PRACTICING VARIABLES
+
+
+PRACTICING CONDITIONALS
+Enter a number: 12
+The value entered is positive, meaning greater than 0
+DONE PRACTICING CONDITIONALS
+
+
+PRACTICING LOOPS
+Hunger Games
+Harry Potter
+Twilight
+DONE PRACTICING LOOPS
+
+
+PRACTICING FUNCTIONS
+Enter a value: 2
+The number is even
+None
+DONE PRACTICING FUNCTIONS
+
+
+PRACTICING CLASSES
+My name is Merry and I am 22 years old.
+DONE PRACTICING CLASSES

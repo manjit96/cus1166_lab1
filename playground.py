@@ -7,7 +7,7 @@ print("Hello " + str(myname))
 # Alternative way to format a string
 print("Hello %s" % myname)
 
-print("DONE PRACTICING BASIC PROGRAM")
+print("DONE PRACTICING BASIC PROGRAM\n")
 
 
 
@@ -24,12 +24,12 @@ print(f"Variable b has the value {b}")
 
 #tuple
 c = (5,10,15)
-print(f" c[0] has the value {c[0]} and is of type: {type(c)}")
+print(f"c[0] has the value {c[0]} and is of type: {type(c)}")
 
 #list
 names = ["Jon", "Sansa", "Bran"]
 names = [10,20,30]
-print(f" names[0] has the value {names[0]} and is of type: {type(names)}")
+print(f"names[0] has the value {names[0]} and is of type: {type(names)}")
 
 #sets variables
 s = set()
@@ -46,7 +46,7 @@ grades["Bran"] = "C-"
 #create an empty directory
 mydictionary = dict()
 
-print("DONE PRACTICING VARIABLES")
+print("DONE PRACTICING VARIABLES\n")
 
 
 
@@ -60,45 +60,51 @@ elif (int(number) < 0):
 else:
     print("The value entered is equal to zero")
 
-print("Done Practicing Conditionals")
+print("DONE PRACTICING CONDITIONALS\n")
 
 
 
-print("\nPracticing Loops")
+print("\nPRACTICING LOOPS")
 
-for i in range(5):
+books = ["Hunger Games", "Harry Potter", "Twilight"]
+for i in books:
     print(i)
 
-for i_idx, i_value in enumerate(range(2,10)):
-    print(f"{i_idx} - {i_value}")
-
-print("Done Practicing Loops")
+print("DONE PRACTICING LOOPS\n")
 
 
+print("\nPRACTICING FUNCTIONS")
 
-print("\nPracticing Functions")
 
-def is_odd(value):
+def is_odd():
     value = input("Enter a value: ")
-    if (value % 2) != 0:
+    if (int(value) % 2) != 0:
         print("The number is odd")
     else:
         print("The number is even")
 
-print("Done Practicing Functions")
+
+print(is_odd())
+
+print("DONE PRACTICING FUNCTIONS\n")
 
 
 
-print("\nPracticing Classes")
+print("\nPRACTICING CLASSES")
 
-class Book:
-    def __init__(self, title = "Software Engineering", isbn = ""):
-        self.title = title
-        self.isbn = isbn
 
-    def printBook(self):
-        print(self.title + "," +self.isbn)
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
 
-print("Done Practicing Classes")
+    def info(val):
+        print(f"My name is {val.name} and I am {val.age} years old.")
+
+
+p1 = Person("Merry", 22)
+p1.info()
+
+print("DONE PRACTICING CLASSES")
 
 
