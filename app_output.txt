@@ -1,0 +1,12 @@
+Alex has a grade of 92.
+Sam has a grade of 95.
+Shane has a grade of 88.
+Elliot has a grade of 87.
+Sebastian has a grade of 97.
+Haley has a grade of 68.
+Caroline has a grade of 83.
+Abigail has a grade of 89.
+Leah has a grade of 76.
+Emily has a grade of 79.
+
+Average of the student grades is: 85.4.
